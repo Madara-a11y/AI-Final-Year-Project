@@ -1,27 +1,27 @@
 # AI for Artificial, Intelligent Game Opponents
 
 ## Overview
-This project explores the development of artificial intelligence techniques for creating intelligent game-playing opponents. The goal is to design and implement AI agents that can adapt, learn, and respond strategically to player actions, enhancing gameplay experience and realism.
+This project explores the development of artificial intelligence systems for creating intelligent and adaptive game opponents within Unreal Engine. The goal is to design and implement AI behaviors that can react strategically to player actions, enhancing the gameplay experience and realism.
 
 ## Objectives
-- Implement AI decision-making systems inspired by real-world and game AI approaches.
-- Integrate AI behaviors within a game environment (potentially using Unreal Engine).
-- Evaluate agent performance and learning efficiency through simulation and testing.
+- Implement decision-making and movement behaviors for AI-controlled opponents.
+- Use Unreal Engine tools such as Behavior Trees, Blackboards, and AI Controllers.
+- Evaluate how different AI techniques affect gameplay difficulty and engagement.
 
 ## Tools & Technologies
-- **Python** – for AI logic, simulation, and data analysis.
-- **Unreal Engine** – for creating and testing gameplay environments.
-- **GitHub** – for version control and collaboration.
+- **Unreal Engine 5** – for game environment and AI implementation.
+- **Blueprints and C++** – for scripting AI logic and game systems.
+- **GitHub** – for version control and progress tracking.
 
 ## Current Progress
-- Created project repository.
-- Added initial Python file (`ai_agent.py`) for AI logic structure.
-- Set up version control for iterative development.
+- Created project repository on GitHub.
+- Set up initial Unreal Engine project structure.
+- Added README for documentation and progress tracking.
 
 ## Next Steps
-- Define the architecture for the AI agent (e.g., state machine, behavior tree, or reinforcement learning).
-- Begin implementing basic movement or decision-making logic.
-- Integrate AI with a simple Unreal Engine prototype.
+- Design the basic game environment for AI testing.
+- Implement AI Controller and Behavior Tree structure.
+- Begin testing simple patrol and chase behaviors.
 
 ## Author
 **Maximiliano Amaewhule**  
